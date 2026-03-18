@@ -55,6 +55,9 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
+
+
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=6531503070&locale=en&hide_title=false&layout=compact&card_width=280&langs_count=5&theme=radical&hide_border=false" height="185" alt="languages graph"  />
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31siowccgtdfclmlgbgfl4u2bcee&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31siowccgtdfclmlgbgfl4u2bcee&redirect=true)
