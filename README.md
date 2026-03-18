@@ -1,8 +1,8 @@
 ## Hello people! 👋, I'm Bas~
 
-**🎮 Roblox gamedev! (Luau/Lua) enthusiast!!! <br>**
+**🎮 Roblox Dev (Lua / Luau) Enthusiast! <br>**
 **🤖 AI enthusiast! <br>**
-📱 I also do some mobile and web applications but mainly focus on the [Luau](https://luau.org/) & [Roblox](http://roblox.com/) ecosystem!
+📱 Sometimes active in mobile and web-app development, but I mainly focus on the [Luau](https://luau.org/) and [Roblox](http://roblox.com/) ecosystem!
 
 ---
 
