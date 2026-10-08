@@ -32,16 +32,16 @@
 
 <!-- Github Stats -->
 <div align="center">
-  <!-- <img src="https://raw.githubusercontent.com/itzbbbbas/itzbbbbas/output/stats.svg" height="185" alt="stats graph"  /> -->
-  <img src="https://raw.githubusercontent.com/itzbbbbas/itzbbbbas/output/top-langs.svg" height="180" alt="languages graph"  />
+  <!-- <img src="https://raw.githubusercontent.com/6531503070/6531503070/output/itzbbbbas-stats.svg" height="185" alt="stats graph"  /> -->
+  <img src="https://raw.githubusercontent.com/6531503070/6531503070/output/itzbbbbas-top-langs.svg" height="180" alt="languages graph"  />
 </div>
 
 <!-- Github Snake Game -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzbbbbas/itzbbbbas/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzbbbbas/itzbbbbas/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/itzbbbbas/itzbbbbas/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/6531503070/6531503070/output/itzbbbbas-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/6531503070/6531503070/output/itzbbbbas-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/6531503070/6531503070/output/itzbbbbas-snake.svg" />
   </picture>
 </div>
 
