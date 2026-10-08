@@ -12,7 +12,7 @@
   <a href="https://www.roblox.com/users/1506230356/profile">
     <img alt="Roblox" src="https://img.shields.io/badge/Roblox-Profile-red?logo=roblox">
   </a>
-  <a href="https://github.com/6531503070">
+  <a href="https://github.com/itzbbbbas">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github">
   </a>
   <!-- <a href="https://github.com/6531503070/awesome-github-profile-readme">
@@ -32,16 +32,16 @@
 
 <!-- Github Stats -->
 <div align="center">
-  <!-- <img src="https://raw.githubusercontent.com/6531503070/6531503070/output/stats.svg" height="185" alt="stats graph"  /> -->
-  <img src="https://raw.githubusercontent.com/6531503070/6531503070/output/top-langs.svg" height="180" alt="languages graph"  />
+  <!-- <img src="https://raw.githubusercontent.com/itzbbbbas/itzbbbbas/output/stats.svg" height="185" alt="stats graph"  /> -->
+  <img src="https://raw.githubusercontent.com/itzbbbbas/itzbbbbas/output/top-langs.svg" height="180" alt="languages graph"  />
 </div>
 
 <!-- Github Snake Game -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/6531503070/6531503070/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/6531503070/6531503070/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/6531503070/6531503070/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzbbbbas/itzbbbbas/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzbbbbas/itzbbbbas/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/itzbbbbas/itzbbbbas/output/github-snake.svg" />
   </picture>
 </div>
 
